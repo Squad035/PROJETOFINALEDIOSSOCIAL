@@ -1,0 +1,18 @@
+package dao;
+
+public class cadastroDAO {
+
+	public void save() {
+		String sql = "INSERT INTO aluno (nome_aluni) values (?)";
+		
+		Connection conn = null;
+		PreparedStatement pstm = null;
+	
+		try {
+			
+		}
+		
+	}
+	
+	
+}
